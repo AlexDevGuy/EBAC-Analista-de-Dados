@@ -1,4 +1,5 @@
-EBAC - Analista de Dados
+**EBAC - Analista de Dados**
+
 Este repositório contém as atividades e projetos desenvolvidos durante o curso de Analista de Dados da EBAC (Escola Britânica de Artes Criativas e Tecnologia). O curso abrange uma variedade de tópicos em análise de dados, incluindo:
 
 Estatística: Fundamentos estatísticos, testes de hipótese, análise de variância, etc.
