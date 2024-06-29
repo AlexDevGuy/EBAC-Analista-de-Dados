@@ -17,9 +17,13 @@ Aqui está uma lista dos projetos desenvolvidos durante o curso:
 
 Neste projeto, mergulhamos profundamente nos dados de uma empresa de logística real. Desde a coleta e limpeza dos dados até a criação de visualizações perspicazes e descoberta de insights valiosos, este projeto demonstra minha capacidade de trabalhar com dados complexos em um cenário do mundo real. Um destaque deste projeto é o uso da **API de geocodificação Nominatim** para enriquecer nossos dados com informações geográficas.
 
-### [📈 Projeto 2: Análise de Dados Interativa COVID-19 Dashboard](Projetos/Projeto%20COVID-19%20Dashboard)
+### [📈 Projeto 2: Análise de Dados Interativa COVID-19 Dashboard](Projetos/Projeto%20COVID-19%20Dashboard/Projeto%20COVID-19%20Dashboard.ipynb)
 
-O relatório analisa o impacto da pandemia de COVID-19 em 2021 no Brasil. Com os dashboards criados, podemos analisar melhor os números de pessoas vacinadas até a 3ª dose, assim como visualizar o número de mortes e comparar esses dados entre diferentes estados do Brasil. Concluímos que não há uma relação direta entre um estado específico e o número de mortes por milhão de habitantes causadas pelo vírus. A resposta à pandemia depende de fatores variados, como ações governamentais, medidas de contenção e outros aspectos específicos de cada localidade.
+Este projeto analisa o impacto da pandemia de COVID-19 em 2021 no Brasil. Os dashboards interativos permitem uma análise detalhada dos números de vacinação e óbitos, além de comparações entre estados brasileiros.
+
+### [📉 Projeto 3: Projeto SQL Análise Exploratória de Dados Cartões de Crédito](Projetos/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito.ipynb)
+
+Este projeto de análise exploratória de dados (EDA) examina os dados dos clientes de cartão de crédito para identificar tendências e padrões. O objetivo é extrair insights valiosos para otimizar negócios, aumentar a fidelidade do cliente, a receita e o desempenho geral.
 
 ## ℹ️ Como Usar Este Repositório
 
